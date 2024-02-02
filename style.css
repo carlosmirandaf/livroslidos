@@ -4,12 +4,12 @@ body {
 
 p {
     color: black;
-    text-align: center;
     font-family: calibri;
 }
 
 h1 {
     color: black;
+    text-align: center;
     font-family: calibri;
     font-size: 30px;
 }
