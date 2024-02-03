@@ -5,6 +5,7 @@ body {
 p {
     color: black;
     font-family: calibri;
+    text-align: justify;
     margin: 25px;
 }
 
