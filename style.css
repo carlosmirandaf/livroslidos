@@ -2,6 +2,11 @@ body {
     background-color: lavender;
 }
 
+div {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
 p {
     color: black;
     font-family: calibri;
