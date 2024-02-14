@@ -1,10 +1,3 @@
-document.querySelectorAll('.toggleButton').forEach(button => {
-    button.addEventListener('click', function() {
-        var textDiv = this.parentElement;
-        textDiv.style.display = (textDiv.style.display === 'none' ? 'block' : 'none');
-    });
-});
-
 document.getElementById('link1').addEventListener('click', function() {
     var antaresText = document.getElementById('antaresText');
     antaresText.style.display = (antaresText.style.display === 'none' ? 'block' : 'none');
